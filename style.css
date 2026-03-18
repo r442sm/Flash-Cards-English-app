@@ -1,0 +1,46 @@
+      body {
+        background-color: #b6f0ec;
+      }
+      img {
+           max-width: 55%;
+           height: auto;
+      }
+      .titleflame {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .border {
+        margin-top: 45px;
+        margin-left: 40px;
+        margin-right: 40px;
+        margin-buttom: 45px;
+        border-radius: 30px;
+        background-color: #FFFFFF;
+      }
+      .gaiyou {
+        color: #8a8988;
+        margin-left: 36px;
+      }
+      p {
+        color: #8a8988;
+        margin-left: 36px;
+      }
+      .apps {
+        text-align: center;
+        color: #8a8988;
+      }
+      button {
+      background-color: #FD7E00;
+      border: none;
+      border-radius:10px ;
+      padding: 2vw 20vw;
+      color: #FFFFFF;
+      margin-bottom: 20px;
+      }
+      button:Active {
+        background-color: #ffdc7d;
+      }
+      .application {
+        text-align: center;
+      }
