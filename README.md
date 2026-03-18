@@ -1,4 +1,4 @@
-# Flash-Cards-English
+# Flash-Cards-English-app
 英語学習のためのフラッシュカードアプリ
 ソースコードを公開していますので、誰でも見ることができます。
 
